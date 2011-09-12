@@ -1,0 +1,3 @@
+Therminal is a python script to poll 1 or multiple WII controllers and convert the points tracked by the camera into MIDI notes. It uses python-cwiid to connect to the WII controller and alsamidi and alsaseq to generate MIDI notes. You should use with aconnect and jackd to route the MIDI notes to a sequencer.
+
+Read http://blog.acaro.org/entry/the-therminal to get to know more.
